@@ -1,0 +1,24 @@
+{
+    "dictionary" : {
+      "de-DE" : {
+        "Deutsch" : "Deutsch",
+        "Englisch" : "Englisch",
+        "cookie-consent" : "Diese Website verwendet Cookies.",
+        "agree" : "Habe ich verstanden",
+        "more_info" : "Mehr Informationen",
+        "please_wait" : "Haben Sie einen Augenblick Geduld...",
+        "testing_data" : "Teste Daten...",
+        "testing_data_done" : "Daten getestet."
+      },
+      "en-GB" : {
+        "Deutsch" : "German",
+        "Englisch" : "English",
+        "cookie-consent" : "This website uses cookies.",
+        "agree" : "I understand.",
+        "more_info" : "More informations",
+        "please_wait" : "Please be patient...",
+        "testing_data" : "Testing Data...",
+        "testing_data_done" : "Data tested."
+      }
+    }
+}

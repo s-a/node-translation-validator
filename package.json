@@ -8,7 +8,8 @@
   },
   "scripts": {
     "test": "node node_modules/mocha/bin/mocha",
-    "debug": "iron-node node_modules/mocha/bin/_mocha"
+    "debug": "iron-node node_modules/mocha/bin/_mocha",
+    "bump": "npm version patch && git push && git push --tags && npm publish"
   },
   "repository": {
     "type": "git",
